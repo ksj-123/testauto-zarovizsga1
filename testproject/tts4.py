@@ -42,3 +42,5 @@ for fej in result_list:
 
 print(len(fej_list))
 assert len(fej_list) >= 30
+
+driver.close()
